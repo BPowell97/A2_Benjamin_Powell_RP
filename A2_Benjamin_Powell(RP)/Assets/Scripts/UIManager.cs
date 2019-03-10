@@ -7,6 +7,7 @@ public class UIManager : MonoBehaviour
 {
     public static UIManager Instance;
     public TextMeshProUGUI scoreText;
+    public TextMeshProUGUI healthText;
 
     private void Awake()
     {
@@ -18,15 +19,10 @@ public class UIManager : MonoBehaviour
         scoreText.text = "Score: <color=white>" + GameManager.Instance.score.ToString();
     }
 
-    // Start is called before the first frame update
-    void Start()
+    public void UpdateHealth()
     {
-        
+        healthText.text = "Health: <color=white>" + GameManager.Instance.health.ToString();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   
 }
