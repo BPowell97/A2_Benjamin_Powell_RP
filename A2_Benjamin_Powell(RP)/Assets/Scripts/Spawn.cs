@@ -34,6 +34,8 @@ public class Spawn : MonoBehaviour
                 Quaternion spawnRotation = Quaternion.identity;
                 Instantiate(enemy, spawnPosition, spawnRotation);
                 yield return new WaitForSeconds(spawnWait);
+                //Destroy(enemy, 10f);
+
             }
             yield return new WaitForSeconds(waveWait);
         }
@@ -50,6 +52,7 @@ public class Spawn : MonoBehaviour
                 Quaternion spawnRotation = Quaternion.identity;
                 Instantiate(fish, spawnPosition, spawnRotation);
                 yield return new WaitForSeconds(fishspawnWait);
+                //Destroy(fish, 10f);
             }
             yield return new WaitForSeconds(fishwaveWait);
         }

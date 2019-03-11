@@ -31,7 +31,8 @@ public class Movement : MonoBehaviour
     private void BarrelRoll(int dir)
     {
         transform.DOMoveX(dir, 1);
-        transform.DORotate(new Vector3(0, 0, 360), 1, RotateMode.WorldAxisAdd);
+        transform.DORotate(new Vector3(0, 0, 360), .5f, RotateMode.WorldAxisAdd);
+
     }
 
 }

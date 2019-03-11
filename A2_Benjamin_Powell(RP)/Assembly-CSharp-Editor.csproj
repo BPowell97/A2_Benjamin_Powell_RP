@@ -317,6 +317,33 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DemiEditor">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween43">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween46">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween50">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween50.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenEditor">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenPro">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenProEditor">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
@@ -331,33 +358,6 @@
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
       <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTweenEditor">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween46">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTweenProEditor">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween50">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween50.dll</HintPath>
-    </Reference>
-    <Reference Include="DemiLib">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
-    </Reference>
-    <Reference Include="DemiEditor">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween43">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTweenPro">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>F:/Unity Hub/2018.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

@@ -63,6 +63,7 @@
     <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenAnimation.cs" />
     <Compile Include="Assets\Scripts\Fish.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\Shark.cs" />
@@ -315,6 +316,24 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>F:/Unity Hub/2018.3.5f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween43">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween46">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween50">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween50.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenPro">
+      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Analytics.Editor">
       <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
@@ -323,24 +342,6 @@
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
       <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween46">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween50">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween50.dll</HintPath>
-    </Reference>
-    <Reference Include="DemiLib">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween43">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTweenPro">
-      <HintPath>F:/Desktop/A2_Benjamin_Powell_RP/A2_Benjamin_Powell(RP)/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>F:/Unity Hub/2018.3.5f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
