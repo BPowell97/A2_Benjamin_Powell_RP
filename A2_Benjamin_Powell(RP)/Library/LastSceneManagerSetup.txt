@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/CatchAFish.unity
+- path: Assets/Scenes/MultiMatch.unity
   isLoaded: 1
   isActive: 1
